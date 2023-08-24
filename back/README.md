@@ -1,6 +1,6 @@
 # BackEnd
 
-This project was generated with MERN version 16.2.0.
+This project was generated with MERN version 1.0.
 
 ## Development server
 
